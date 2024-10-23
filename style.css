@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    position: fixed;
+    width: 1900px;
+    height: 100px;
+    background-color: aqua;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+li {
+    list-style: none;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.con-one {
+    width: auto;
+    height: 600px;
+    background-color: cadetblue;
+    text-align: center;
+}
+.con-two {
+    width: auto;
+    height: 600px;
+    background-color: blue;
+    text-align: center;
+}
+.con-three {
+    width: auto;
+    height: 600px;
+    background-color: burlywood;
+    text-align: center;
+}
+.con-four {
+    width: auto;
+    height: 600px;
+    background-color: chartreuse;
+    text-align: center;
+}
